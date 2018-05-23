@@ -50,7 +50,7 @@ management:
 security:
     user:
         name: admin
-        password: admin
+        password: virtualLibrary197
         role: USER,ADMIN
 
 # ===================================================================
